@@ -1,0 +1,3 @@
+China,Cancún,446400,DHL,Avión,23-01-2020 08:00:00
+Mérida,Cozumel,400,DHL,Avión,23-01-2020 13:50:00
+Mérida,Cozumel,400,Fedex,Barco,23-01-2020 13:50:00

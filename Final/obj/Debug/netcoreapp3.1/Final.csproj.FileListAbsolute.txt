@@ -1,0 +1,13 @@
+C:\Users\josue.garcia\source\repos\Final\Final\bin\Debug\netcoreapp3.1\Final.exe
+C:\Users\josue.garcia\source\repos\Final\Final\obj\Debug\netcoreapp3.1\Final.AssemblyInfoInputs.cache
+C:\Users\josue.garcia\source\repos\Final\Final\obj\Debug\netcoreapp3.1\Final.AssemblyInfo.cs
+C:\Users\josue.garcia\source\repos\Final\Final\bin\Debug\netcoreapp3.1\Final.deps.json
+C:\Users\josue.garcia\source\repos\Final\Final\bin\Debug\netcoreapp3.1\Final.runtimeconfig.json
+C:\Users\josue.garcia\source\repos\Final\Final\bin\Debug\netcoreapp3.1\Final.runtimeconfig.dev.json
+C:\Users\josue.garcia\source\repos\Final\Final\bin\Debug\netcoreapp3.1\Final.dll
+C:\Users\josue.garcia\source\repos\Final\Final\bin\Debug\netcoreapp3.1\Final.pdb
+C:\Users\josue.garcia\source\repos\Final\Final\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\josue.garcia\source\repos\Final\Final\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\josue.garcia\source\repos\Final\Final\obj\Debug\netcoreapp3.1\Final.csproj.CopyComplete
+C:\Users\josue.garcia\source\repos\Final\Final\obj\Debug\netcoreapp3.1\Final.dll
+C:\Users\josue.garcia\source\repos\Final\Final\obj\Debug\netcoreapp3.1\Final.pdb
